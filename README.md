@@ -1,5 +1,5 @@
 # Pandas-Sales-Analysis
-My first project using Python Pandas Library.
+My first project using Python Pandas Library. Please checkout the whole code and graphs in "SalesAnalysis.ipynb" file. "Sales Data" directory contains all the csv files. "all_data.csv" contains consolidated data of 12 months.
 
 ## Background Information:
 In this project we answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc.
